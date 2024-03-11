@@ -1,0 +1,24 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8081",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faisalhfdz-25/hbd-mba-pacar.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "homepage": "https://faisalhfdz-25.github.io/hbd-mba-pacar/",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
